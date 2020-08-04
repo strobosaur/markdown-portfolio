@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of strobosaur](https://i.ibb.co/YLfHMdz/josbur01-XL-3x4.jpg)
