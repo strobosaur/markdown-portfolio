@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Neuromancer, William Gibson
+* Blood Meridian, Cormac McCarthy
+* House of Leaves, Mark Danielewsky
+* Echopraxia, Peter Watts
